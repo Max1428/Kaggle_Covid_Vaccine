@@ -18,5 +18,5 @@ conda activate kaggle
 
 ## Utilisation :
 
-Pour l'utilisation, connectez-vous sur https://colab.research.google.com/, chargez le fichier ***a complété***, lancez les cellules et chargez les fichiers train.json, test.json, vienna_test.txt, vienna_train.txt.
+Pour l'utilisation, connectez-vous sur https://colab.research.google.com/, chargez le fichier ***a complété***, lancez les cellules et chargez les fichiers train.json, test.json, vienna_test.txt, vienna_train.txt, sample_submission.csv et outputraw1587.txt.clstr.
 
