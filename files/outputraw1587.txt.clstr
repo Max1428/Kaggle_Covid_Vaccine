@@ -1,0 +1,2907 @@
+>Cluster 0
+0	107nt, >SEQ1train... *
+1	107nt, >SEQ842train... at +/96.26%
+>Cluster 1
+0	107nt, >SEQ2train... *
+1	107nt, >SEQ207train... at +/96.26%
+2	107nt, >SEQ219train... at +/98.13%
+3	107nt, >SEQ410train... at +/96.26%
+4	107nt, >SEQ446train... at +/96.26%
+5	107nt, >SEQ628train... at +/96.26%
+6	107nt, >SEQ1205train... at +/96.26%
+7	107nt, >SEQ1503train... at +/96.26%
+8	107nt, >SEQ1571train... at +/95.33%
+>Cluster 2
+0	107nt, >SEQ3train... *
+>Cluster 3
+0	107nt, >SEQ4train... *
+>Cluster 4
+0	107nt, >SEQ5train... *
+>Cluster 5
+0	107nt, >SEQ6train... *
+>Cluster 6
+0	107nt, >SEQ7train... *
+>Cluster 7
+0	107nt, >SEQ8train... *
+1	107nt, >SEQ861train... at +/95.33%
+2	107nt, >SEQ1342train... at +/97.20%
+>Cluster 8
+0	107nt, >SEQ9train... *
+>Cluster 9
+0	107nt, >SEQ10train... *
+>Cluster 10
+0	107nt, >SEQ11train... *
+1	107nt, >SEQ172train... at +/98.13%
+2	107nt, >SEQ484train... at +/98.13%
+3	107nt, >SEQ485train... at +/96.26%
+4	107nt, >SEQ1198train... at +/95.33%
+5	107nt, >SEQ1483train... at +/96.26%
+6	107nt, >SEQ1586train... at +/95.33%
+>Cluster 11
+0	107nt, >SEQ12train... *
+1	107nt, >SEQ745train... at +/96.26%
+2	107nt, >SEQ862train... at +/97.20%
+>Cluster 12
+0	107nt, >SEQ13train... *
+>Cluster 13
+0	107nt, >SEQ14train... *
+>Cluster 14
+0	107nt, >SEQ15train... *
+>Cluster 15
+0	107nt, >SEQ16train... *
+1	107nt, >SEQ1271train... at +/96.26%
+>Cluster 16
+0	107nt, >SEQ17train... *
+1	107nt, >SEQ1162train... at +/95.33%
+>Cluster 17
+0	107nt, >SEQ18train... *
+>Cluster 18
+0	107nt, >SEQ19train... *
+>Cluster 19
+0	107nt, >SEQ20train... *
+1	107nt, >SEQ1300train... at +/95.33%
+>Cluster 20
+0	107nt, >SEQ21train... *
+>Cluster 21
+0	107nt, >SEQ22train... *
+>Cluster 22
+0	107nt, >SEQ23train... *
+>Cluster 23
+0	107nt, >SEQ24train... *
+>Cluster 24
+0	107nt, >SEQ25train... *
+>Cluster 25
+0	107nt, >SEQ26train... *
+>Cluster 26
+0	107nt, >SEQ27train... *
+1	107nt, >SEQ287train... at +/96.26%
+2	107nt, >SEQ705train... at +/96.26%
+3	107nt, >SEQ999train... at +/96.26%
+4	107nt, >SEQ1185train... at +/98.13%
+5	107nt, >SEQ1238train... at +/96.26%
+>Cluster 27
+0	107nt, >SEQ28train... *
+1	107nt, >SEQ97train... at +/97.20%
+2	107nt, >SEQ241train... at +/95.33%
+3	107nt, >SEQ297train... at +/97.20%
+4	107nt, >SEQ325train... at +/98.13%
+5	107nt, >SEQ395train... at +/96.26%
+6	107nt, >SEQ584train... at +/96.26%
+7	107nt, >SEQ807train... at +/98.13%
+8	107nt, >SEQ857train... at +/96.26%
+9	107nt, >SEQ1110train... at +/96.26%
+10	107nt, >SEQ1121train... at +/96.26%
+11	107nt, >SEQ1246train... at +/98.13%
+>Cluster 28
+0	107nt, >SEQ29train... *
+>Cluster 29
+0	107nt, >SEQ30train... *
+>Cluster 30
+0	107nt, >SEQ31train... *
+1	107nt, >SEQ1240train... at +/95.33%
+>Cluster 31
+0	107nt, >SEQ32train... *
+>Cluster 32
+0	107nt, >SEQ33train... *
+>Cluster 33
+0	107nt, >SEQ34train... *
+>Cluster 34
+0	107nt, >SEQ35train... *
+>Cluster 35
+0	107nt, >SEQ36train... *
+>Cluster 36
+0	107nt, >SEQ37train... *
+>Cluster 37
+0	107nt, >SEQ38train... *
+>Cluster 38
+0	107nt, >SEQ39train... *
+>Cluster 39
+0	107nt, >SEQ40train... *
+>Cluster 40
+0	107nt, >SEQ41train... *
+>Cluster 41
+0	107nt, >SEQ42train... *
+>Cluster 42
+0	107nt, >SEQ43train... *
+>Cluster 43
+0	107nt, >SEQ44train... *
+>Cluster 44
+0	107nt, >SEQ45train... *
+>Cluster 45
+0	107nt, >SEQ46train... *
+>Cluster 46
+0	107nt, >SEQ47train... *
+>Cluster 47
+0	107nt, >SEQ48train... *
+1	107nt, >SEQ298train... at +/98.13%
+>Cluster 48
+0	107nt, >SEQ49train... *
+1	107nt, >SEQ1442train... at +/95.33%
+>Cluster 49
+0	107nt, >SEQ50train... *
+>Cluster 50
+0	107nt, >SEQ51train... *
+>Cluster 51
+0	107nt, >SEQ52train... *
+1	107nt, >SEQ1558train... at +/96.26%
+>Cluster 52
+0	107nt, >SEQ53train... *
+>Cluster 53
+0	107nt, >SEQ54train... *
+>Cluster 54
+0	107nt, >SEQ55train... *
+>Cluster 55
+0	107nt, >SEQ56train... *
+1	107nt, >SEQ309train... at +/96.26%
+2	107nt, >SEQ1488train... at +/98.13%
+>Cluster 56
+0	107nt, >SEQ57train... *
+1	107nt, >SEQ133train... at +/98.13%
+2	107nt, >SEQ933train... at +/96.26%
+3	107nt, >SEQ1129train... at +/96.26%
+4	107nt, >SEQ1258train... at +/98.13%
+5	107nt, >SEQ1409train... at +/96.26%
+6	107nt, >SEQ1518train... at +/96.26%
+>Cluster 57
+0	107nt, >SEQ58train... *
+1	107nt, >SEQ955train... at +/97.20%
+>Cluster 58
+0	107nt, >SEQ59train... *
+>Cluster 59
+0	107nt, >SEQ60train... *
+>Cluster 60
+0	107nt, >SEQ61train... *
+>Cluster 61
+0	107nt, >SEQ62train... *
+1	107nt, >SEQ302train... at +/98.13%
+2	107nt, >SEQ998train... at +/98.13%
+3	107nt, >SEQ1302train... at +/96.26%
+4	107nt, >SEQ1502train... at +/96.26%
+>Cluster 62
+0	107nt, >SEQ63train... *
+>Cluster 63
+0	107nt, >SEQ64train... *
+>Cluster 64
+0	107nt, >SEQ65train... *
+>Cluster 65
+0	107nt, >SEQ66train... *
+1	107nt, >SEQ457train... at +/95.33%
+>Cluster 66
+0	107nt, >SEQ67train... *
+1	107nt, >SEQ94train... at +/95.33%
+>Cluster 67
+0	107nt, >SEQ68train... *
+>Cluster 68
+0	107nt, >SEQ69train... *
+>Cluster 69
+0	107nt, >SEQ70train... *
+1	107nt, >SEQ205train... at +/95.33%
+2	107nt, >SEQ620train... at +/96.26%
+3	107nt, >SEQ847train... at +/98.13%
+>Cluster 70
+0	107nt, >SEQ71train... *
+>Cluster 71
+0	107nt, >SEQ72train... *
+>Cluster 72
+0	107nt, >SEQ73train... *
+1	107nt, >SEQ936train... at +/95.33%
+2	107nt, >SEQ1269train... at +/96.26%
+3	107nt, >SEQ1270train... at +/99.07%
+4	107nt, >SEQ1453train... at +/96.26%
+>Cluster 73
+0	107nt, >SEQ74train... *
+>Cluster 74
+0	107nt, >SEQ75train... *
+>Cluster 75
+0	107nt, >SEQ76train... *
+>Cluster 76
+0	107nt, >SEQ77train... *
+1	107nt, >SEQ1252train... at +/95.33%
+>Cluster 77
+0	107nt, >SEQ78train... *
+>Cluster 78
+0	107nt, >SEQ79train... *
+>Cluster 79
+0	107nt, >SEQ80train... *
+>Cluster 80
+0	107nt, >SEQ81train... *
+>Cluster 81
+0	107nt, >SEQ82train... *
+>Cluster 82
+0	107nt, >SEQ83train... *
+>Cluster 83
+0	107nt, >SEQ84train... *
+>Cluster 84
+0	107nt, >SEQ85train... *
+>Cluster 85
+0	107nt, >SEQ86train... *
+>Cluster 86
+0	107nt, >SEQ87train... *
+>Cluster 87
+0	107nt, >SEQ88train... *
+>Cluster 88
+0	107nt, >SEQ89train... *
+>Cluster 89
+0	107nt, >SEQ90train... *
+1	107nt, >SEQ248train... at +/98.13%
+2	107nt, >SEQ673train... at +/96.26%
+3	107nt, >SEQ1206train... at +/98.13%
+>Cluster 90
+0	107nt, >SEQ91train... *
+1	107nt, >SEQ504train... at +/95.33%
+>Cluster 91
+0	107nt, >SEQ92train... *
+1	107nt, >SEQ598train... at +/96.26%
+2	107nt, >SEQ625train... at +/98.13%
+3	107nt, >SEQ805train... at +/96.26%
+4	107nt, >SEQ982train... at +/96.26%
+>Cluster 92
+0	107nt, >SEQ93train... *
+>Cluster 93
+0	107nt, >SEQ95train... *
+>Cluster 94
+0	107nt, >SEQ96train... *
+>Cluster 95
+0	107nt, >SEQ98train... *
+>Cluster 96
+0	107nt, >SEQ99train... *
+>Cluster 97
+0	107nt, >SEQ100train... *
+1	107nt, >SEQ1035train... at +/95.33%
+>Cluster 98
+0	107nt, >SEQ101train... *
+>Cluster 99
+0	107nt, >SEQ102train... *
+1	107nt, >SEQ637train... at +/98.13%
+2	107nt, >SEQ1299train... at +/98.13%
+3	107nt, >SEQ1508train... at +/95.33%
+>Cluster 100
+0	107nt, >SEQ103train... *
+>Cluster 101
+0	107nt, >SEQ104train... *
+>Cluster 102
+0	107nt, >SEQ105train... *
+>Cluster 103
+0	107nt, >SEQ106train... *
+>Cluster 104
+0	107nt, >SEQ107train... *
+>Cluster 105
+0	107nt, >SEQ108train... *
+1	107nt, >SEQ1494train... at +/95.33%
+>Cluster 106
+0	107nt, >SEQ109train... *
+>Cluster 107
+0	107nt, >SEQ110train... *
+>Cluster 108
+0	107nt, >SEQ111train... *
+>Cluster 109
+0	107nt, >SEQ112train... *
+>Cluster 110
+0	107nt, >SEQ113train... *
+>Cluster 111
+0	107nt, >SEQ114train... *
+>Cluster 112
+0	107nt, >SEQ115train... *
+>Cluster 113
+0	107nt, >SEQ116train... *
+1	107nt, >SEQ1304train... at +/95.33%
+>Cluster 114
+0	107nt, >SEQ117train... *
+>Cluster 115
+0	107nt, >SEQ118train... *
+>Cluster 116
+0	107nt, >SEQ119train... *
+>Cluster 117
+0	107nt, >SEQ120train... *
+>Cluster 118
+0	107nt, >SEQ121train... *
+1	107nt, >SEQ783train... at +/95.33%
+>Cluster 119
+0	107nt, >SEQ122train... *
+>Cluster 120
+0	107nt, >SEQ123train... *
+>Cluster 121
+0	107nt, >SEQ124train... *
+>Cluster 122
+0	107nt, >SEQ125train... *
+>Cluster 123
+0	107nt, >SEQ126train... *
+>Cluster 124
+0	107nt, >SEQ127train... *
+1	107nt, >SEQ720train... at +/96.26%
+>Cluster 125
+0	107nt, >SEQ128train... *
+1	107nt, >SEQ1365train... at +/98.13%
+>Cluster 126
+0	107nt, >SEQ129train... *
+1	107nt, >SEQ279train... at +/96.26%
+2	107nt, >SEQ1332train... at +/96.26%
+>Cluster 127
+0	107nt, >SEQ130train... *
+>Cluster 128
+0	107nt, >SEQ131train... *
+>Cluster 129
+0	107nt, >SEQ132train... *
+>Cluster 130
+0	107nt, >SEQ134train... *
+1	107nt, >SEQ1174train... at +/96.26%
+>Cluster 131
+0	107nt, >SEQ135train... *
+1	107nt, >SEQ1236train... at +/96.26%
+>Cluster 132
+0	107nt, >SEQ136train... *
+1	107nt, >SEQ176train... at +/97.20%
+2	107nt, >SEQ341train... at +/96.26%
+>Cluster 133
+0	107nt, >SEQ137train... *
+>Cluster 134
+0	107nt, >SEQ138train... *
+>Cluster 135
+0	107nt, >SEQ139train... *
+>Cluster 136
+0	107nt, >SEQ140train... *
+>Cluster 137
+0	107nt, >SEQ141train... *
+>Cluster 138
+0	107nt, >SEQ142train... *
+>Cluster 139
+0	107nt, >SEQ143train... *
+1	107nt, >SEQ1244train... at +/95.33%
+2	107nt, >SEQ1256train... at +/98.13%
+3	107nt, >SEQ1356train... at +/98.13%
+4	107nt, >SEQ1394train... at +/95.33%
+>Cluster 140
+0	107nt, >SEQ144train... *
+1	107nt, >SEQ1099train... at +/98.13%
+>Cluster 141
+0	107nt, >SEQ145train... *
+>Cluster 142
+0	107nt, >SEQ146train... *
+>Cluster 143
+0	107nt, >SEQ147train... *
+>Cluster 144
+0	107nt, >SEQ148train... *
+>Cluster 145
+0	107nt, >SEQ149train... *
+1	107nt, >SEQ286train... at +/99.07%
+>Cluster 146
+0	107nt, >SEQ150train... *
+>Cluster 147
+0	107nt, >SEQ151train... *
+>Cluster 148
+0	107nt, >SEQ152train... *
+>Cluster 149
+0	107nt, >SEQ153train... *
+>Cluster 150
+0	107nt, >SEQ154train... *
+>Cluster 151
+0	107nt, >SEQ155train... *
+>Cluster 152
+0	107nt, >SEQ156train... *
+>Cluster 153
+0	107nt, >SEQ157train... *
+>Cluster 154
+0	107nt, >SEQ158train... *
+>Cluster 155
+0	107nt, >SEQ159train... *
+1	107nt, >SEQ295train... at +/96.26%
+2	107nt, >SEQ354train... at +/97.20%
+3	107nt, >SEQ418train... at +/98.13%
+4	107nt, >SEQ538train... at +/95.33%
+5	107nt, >SEQ779train... at +/97.20%
+>Cluster 156
+0	107nt, >SEQ160train... *
+>Cluster 157
+0	107nt, >SEQ161train... *
+>Cluster 158
+0	107nt, >SEQ162train... *
+1	107nt, >SEQ949train... at +/95.33%
+>Cluster 159
+0	107nt, >SEQ163train... *
+>Cluster 160
+0	107nt, >SEQ164train... *
+1	107nt, >SEQ1340train... at +/98.13%
+>Cluster 161
+0	107nt, >SEQ165train... *
+>Cluster 162
+0	107nt, >SEQ166train... *
+>Cluster 163
+0	107nt, >SEQ167train... *
+>Cluster 164
+0	107nt, >SEQ168train... *
+>Cluster 165
+0	107nt, >SEQ169train... *
+>Cluster 166
+0	107nt, >SEQ170train... *
+>Cluster 167
+0	107nt, >SEQ171train... *
+>Cluster 168
+0	107nt, >SEQ173train... *
+1	107nt, >SEQ1011train... at +/95.33%
+>Cluster 169
+0	107nt, >SEQ174train... *
+1	107nt, >SEQ869train... at +/98.13%
+>Cluster 170
+0	107nt, >SEQ175train... *
+>Cluster 171
+0	107nt, >SEQ177train... *
+>Cluster 172
+0	107nt, >SEQ178train... *
+1	107nt, >SEQ182train... at +/95.33%
+2	107nt, >SEQ460train... at +/96.26%
+3	107nt, >SEQ564train... at +/96.26%
+4	107nt, >SEQ1044train... at +/98.13%
+5	107nt, >SEQ1230train... at +/96.26%
+6	107nt, >SEQ1281train... at +/96.26%
+7	107nt, >SEQ1493train... at +/95.33%
+>Cluster 173
+0	107nt, >SEQ179train... *
+1	107nt, >SEQ1016train... at +/98.13%
+>Cluster 174
+0	107nt, >SEQ180train... *
+>Cluster 175
+0	107nt, >SEQ181train... *
+>Cluster 176
+0	107nt, >SEQ183train... *
+>Cluster 177
+0	107nt, >SEQ184train... *
+>Cluster 178
+0	107nt, >SEQ185train... *
+>Cluster 179
+0	107nt, >SEQ186train... *
+>Cluster 180
+0	107nt, >SEQ187train... *
+>Cluster 181
+0	107nt, >SEQ188train... *
+>Cluster 182
+0	107nt, >SEQ189train... *
+>Cluster 183
+0	107nt, >SEQ190train... *
+>Cluster 184
+0	107nt, >SEQ191train... *
+>Cluster 185
+0	107nt, >SEQ192train... *
+>Cluster 186
+0	107nt, >SEQ193train... *
+>Cluster 187
+0	107nt, >SEQ194train... *
+>Cluster 188
+0	107nt, >SEQ195train... *
+>Cluster 189
+0	107nt, >SEQ196train... *
+>Cluster 190
+0	107nt, >SEQ197train... *
+>Cluster 191
+0	107nt, >SEQ198train... *
+>Cluster 192
+0	107nt, >SEQ199train... *
+>Cluster 193
+0	107nt, >SEQ200train... *
+1	107nt, >SEQ900train... at +/96.26%
+>Cluster 194
+0	107nt, >SEQ201train... *
+>Cluster 195
+0	107nt, >SEQ202train... *
+>Cluster 196
+0	107nt, >SEQ203train... *
+1	107nt, >SEQ878train... at +/97.20%
+>Cluster 197
+0	107nt, >SEQ204train... *
+1	107nt, >SEQ505train... at +/96.26%
+>Cluster 198
+0	107nt, >SEQ206train... *
+1	107nt, >SEQ250train... at +/98.13%
+2	107nt, >SEQ549train... at +/98.13%
+3	107nt, >SEQ1107train... at +/96.26%
+4	107nt, >SEQ1349train... at +/95.33%
+5	107nt, >SEQ1479train... at +/96.26%
+>Cluster 199
+0	107nt, >SEQ208train... *
+>Cluster 200
+0	107nt, >SEQ209train... *
+>Cluster 201
+0	107nt, >SEQ210train... *
+>Cluster 202
+0	107nt, >SEQ211train... *
+>Cluster 203
+0	107nt, >SEQ212train... *
+1	107nt, >SEQ1212train... at +/95.33%
+2	107nt, >SEQ1268train... at +/95.33%
+>Cluster 204
+0	107nt, >SEQ213train... *
+>Cluster 205
+0	107nt, >SEQ214train... *
+>Cluster 206
+0	107nt, >SEQ215train... *
+>Cluster 207
+0	107nt, >SEQ216train... *
+>Cluster 208
+0	107nt, >SEQ217train... *
+>Cluster 209
+0	107nt, >SEQ218train... *
+>Cluster 210
+0	107nt, >SEQ220train... *
+>Cluster 211
+0	107nt, >SEQ221train... *
+>Cluster 212
+0	107nt, >SEQ222train... *
+>Cluster 213
+0	107nt, >SEQ223train... *
+>Cluster 214
+0	107nt, >SEQ224train... *
+>Cluster 215
+0	107nt, >SEQ225train... *
+>Cluster 216
+0	107nt, >SEQ226train... *
+>Cluster 217
+0	107nt, >SEQ227train... *
+>Cluster 218
+0	107nt, >SEQ228train... *
+>Cluster 219
+0	107nt, >SEQ229train... *
+>Cluster 220
+0	107nt, >SEQ230train... *
+1	107nt, >SEQ817train... at +/99.07%
+2	107nt, >SEQ894train... at +/96.26%
+3	107nt, >SEQ1208train... at +/96.26%
+4	107nt, >SEQ1247train... at +/98.13%
+5	107nt, >SEQ1279train... at +/98.13%
+>Cluster 221
+0	107nt, >SEQ231train... *
+>Cluster 222
+0	107nt, >SEQ232train... *
+>Cluster 223
+0	107nt, >SEQ233train... *
+>Cluster 224
+0	107nt, >SEQ234train... *
+>Cluster 225
+0	107nt, >SEQ235train... *
+>Cluster 226
+0	107nt, >SEQ236train... *
+>Cluster 227
+0	107nt, >SEQ237train... *
+>Cluster 228
+0	107nt, >SEQ238train... *
+1	107nt, >SEQ640train... at +/96.26%
+2	107nt, >SEQ882train... at +/98.13%
+>Cluster 229
+0	107nt, >SEQ239train... *
+>Cluster 230
+0	107nt, >SEQ240train... *
+>Cluster 231
+0	107nt, >SEQ242train... *
+>Cluster 232
+0	107nt, >SEQ243train... *
+>Cluster 233
+0	107nt, >SEQ244train... *
+>Cluster 234
+0	107nt, >SEQ245train... *
+>Cluster 235
+0	107nt, >SEQ246train... *
+>Cluster 236
+0	107nt, >SEQ247train... *
+1	107nt, >SEQ675train... at +/96.26%
+2	107nt, >SEQ759train... at +/97.20%
+3	107nt, >SEQ1130train... at +/96.26%
+>Cluster 237
+0	107nt, >SEQ249train... *
+>Cluster 238
+0	107nt, >SEQ251train... *
+>Cluster 239
+0	107nt, >SEQ252train... *
+>Cluster 240
+0	107nt, >SEQ253train... *
+1	107nt, >SEQ563train... at +/97.20%
+>Cluster 241
+0	107nt, >SEQ254train... *
+>Cluster 242
+0	107nt, >SEQ255train... *
+1	107nt, >SEQ1217train... at +/97.20%
+>Cluster 243
+0	107nt, >SEQ256train... *
+>Cluster 244
+0	107nt, >SEQ257train... *
+>Cluster 245
+0	107nt, >SEQ258train... *
+1	107nt, >SEQ1138train... at +/98.13%
+2	107nt, >SEQ1370train... at +/95.33%
+>Cluster 246
+0	107nt, >SEQ259train... *
+1	107nt, >SEQ439train... at +/97.20%
+2	107nt, >SEQ542train... at +/97.20%
+3	107nt, >SEQ587train... at +/95.33%
+4	107nt, >SEQ907train... at +/95.33%
+5	107nt, >SEQ970train... at +/95.33%
+6	107nt, >SEQ1135train... at +/96.26%
+7	107nt, >SEQ1395train... at +/95.33%
+>Cluster 247
+0	107nt, >SEQ260train... *
+>Cluster 248
+0	107nt, >SEQ261train... *
+>Cluster 249
+0	107nt, >SEQ262train... *
+>Cluster 250
+0	107nt, >SEQ263train... *
+1	107nt, >SEQ763train... at +/95.33%
+>Cluster 251
+0	107nt, >SEQ264train... *
+1	107nt, >SEQ642train... at +/96.26%
+2	107nt, >SEQ1003train... at +/96.26%
+3	107nt, >SEQ1024train... at +/96.26%
+>Cluster 252
+0	107nt, >SEQ265train... *
+1	107nt, >SEQ978train... at +/99.07%
+2	107nt, >SEQ1283train... at +/98.13%
+3	107nt, >SEQ1501train... at +/96.26%
+>Cluster 253
+0	107nt, >SEQ266train... *
+>Cluster 254
+0	107nt, >SEQ267train... *
+>Cluster 255
+0	107nt, >SEQ268train... *
+>Cluster 256
+0	107nt, >SEQ269train... *
+>Cluster 257
+0	107nt, >SEQ270train... *
+>Cluster 258
+0	107nt, >SEQ271train... *
+>Cluster 259
+0	107nt, >SEQ272train... *
+>Cluster 260
+0	107nt, >SEQ273train... *
+>Cluster 261
+0	107nt, >SEQ274train... *
+>Cluster 262
+0	107nt, >SEQ275train... *
+1	107nt, >SEQ442train... at +/96.26%
+>Cluster 263
+0	107nt, >SEQ276train... *
+1	107nt, >SEQ877train... at +/96.26%
+2	107nt, >SEQ992train... at +/96.26%
+>Cluster 264
+0	107nt, >SEQ277train... *
+>Cluster 265
+0	107nt, >SEQ278train... *
+>Cluster 266
+0	107nt, >SEQ280train... *
+>Cluster 267
+0	107nt, >SEQ281train... *
+>Cluster 268
+0	107nt, >SEQ282train... *
+>Cluster 269
+0	107nt, >SEQ283train... *
+>Cluster 270
+0	107nt, >SEQ284train... *
+>Cluster 271
+0	107nt, >SEQ285train... *
+>Cluster 272
+0	107nt, >SEQ288train... *
+1	107nt, >SEQ627train... at +/96.26%
+2	107nt, >SEQ1566train... at +/96.26%
+>Cluster 273
+0	107nt, >SEQ289train... *
+>Cluster 274
+0	107nt, >SEQ290train... *
+1	107nt, >SEQ967train... at +/95.33%
+>Cluster 275
+0	107nt, >SEQ291train... *
+>Cluster 276
+0	107nt, >SEQ292train... *
+>Cluster 277
+0	107nt, >SEQ293train... *
+>Cluster 278
+0	107nt, >SEQ294train... *
+1	107nt, >SEQ799train... at +/97.20%
+>Cluster 279
+0	107nt, >SEQ296train... *
+>Cluster 280
+0	107nt, >SEQ299train... *
+>Cluster 281
+0	107nt, >SEQ300train... *
+>Cluster 282
+0	107nt, >SEQ301train... *
+1	107nt, >SEQ791train... at +/99.07%
+>Cluster 283
+0	107nt, >SEQ303train... *
+>Cluster 284
+0	107nt, >SEQ304train... *
+>Cluster 285
+0	107nt, >SEQ305train... *
+>Cluster 286
+0	107nt, >SEQ306train... *
+>Cluster 287
+0	107nt, >SEQ307train... *
+>Cluster 288
+0	107nt, >SEQ308train... *
+>Cluster 289
+0	107nt, >SEQ310train... *
+>Cluster 290
+0	107nt, >SEQ311train... *
+>Cluster 291
+0	107nt, >SEQ312train... *
+1	107nt, >SEQ757train... at +/95.33%
+>Cluster 292
+0	107nt, >SEQ313train... *
+>Cluster 293
+0	107nt, >SEQ314train... *
+>Cluster 294
+0	107nt, >SEQ315train... *
+1	107nt, >SEQ567train... at +/95.33%
+2	107nt, >SEQ944train... at +/97.20%
+>Cluster 295
+0	107nt, >SEQ316train... *
+>Cluster 296
+0	107nt, >SEQ317train... *
+>Cluster 297
+0	107nt, >SEQ318train... *
+1	107nt, >SEQ414train... at +/98.13%
+2	107nt, >SEQ589train... at +/96.26%
+3	107nt, >SEQ697train... at +/96.26%
+4	107nt, >SEQ1364train... at +/96.26%
+>Cluster 298
+0	107nt, >SEQ319train... *
+>Cluster 299
+0	107nt, >SEQ320train... *
+>Cluster 300
+0	107nt, >SEQ321train... *
+>Cluster 301
+0	107nt, >SEQ322train... *
+>Cluster 302
+0	107nt, >SEQ323train... *
+>Cluster 303
+0	107nt, >SEQ324train... *
+>Cluster 304
+0	107nt, >SEQ326train... *
+>Cluster 305
+0	107nt, >SEQ327train... *
+>Cluster 306
+0	107nt, >SEQ328train... *
+>Cluster 307
+0	107nt, >SEQ329train... *
+>Cluster 308
+0	107nt, >SEQ330train... *
+>Cluster 309
+0	107nt, >SEQ331train... *
+>Cluster 310
+0	107nt, >SEQ332train... *
+>Cluster 311
+0	107nt, >SEQ333train... *
+>Cluster 312
+0	107nt, >SEQ334train... *
+>Cluster 313
+0	107nt, >SEQ335train... *
+>Cluster 314
+0	107nt, >SEQ336train... *
+>Cluster 315
+0	107nt, >SEQ337train... *
+>Cluster 316
+0	107nt, >SEQ338train... *
+>Cluster 317
+0	107nt, >SEQ339train... *
+>Cluster 318
+0	107nt, >SEQ340train... *
+>Cluster 319
+0	107nt, >SEQ342train... *
+>Cluster 320
+0	107nt, >SEQ343train... *
+1	107nt, >SEQ718train... at +/98.13%
+>Cluster 321
+0	107nt, >SEQ344train... *
+>Cluster 322
+0	107nt, >SEQ345train... *
+>Cluster 323
+0	107nt, >SEQ346train... *
+>Cluster 324
+0	107nt, >SEQ347train... *
+>Cluster 325
+0	107nt, >SEQ348train... *
+>Cluster 326
+0	107nt, >SEQ349train... *
+>Cluster 327
+0	107nt, >SEQ350train... *
+1	107nt, >SEQ1045train... at +/97.20%
+>Cluster 328
+0	107nt, >SEQ351train... *
+>Cluster 329
+0	107nt, >SEQ352train... *
+>Cluster 330
+0	107nt, >SEQ353train... *
+>Cluster 331
+0	107nt, >SEQ355train... *
+>Cluster 332
+0	107nt, >SEQ356train... *
+>Cluster 333
+0	107nt, >SEQ357train... *
+>Cluster 334
+0	107nt, >SEQ358train... *
+>Cluster 335
+0	107nt, >SEQ359train... *
+>Cluster 336
+0	107nt, >SEQ360train... *
+>Cluster 337
+0	107nt, >SEQ361train... *
+>Cluster 338
+0	107nt, >SEQ362train... *
+>Cluster 339
+0	107nt, >SEQ363train... *
+>Cluster 340
+0	107nt, >SEQ364train... *
+1	107nt, >SEQ729train... at +/95.33%
+>Cluster 341
+0	107nt, >SEQ365train... *
+>Cluster 342
+0	107nt, >SEQ366train... *
+>Cluster 343
+0	107nt, >SEQ367train... *
+>Cluster 344
+0	107nt, >SEQ368train... *
+>Cluster 345
+0	107nt, >SEQ369train... *
+>Cluster 346
+0	107nt, >SEQ370train... *
+1	107nt, >SEQ435train... at +/96.26%
+>Cluster 347
+0	107nt, >SEQ371train... *
+>Cluster 348
+0	107nt, >SEQ372train... *
+>Cluster 349
+0	107nt, >SEQ373train... *
+>Cluster 350
+0	107nt, >SEQ374train... *
+>Cluster 351
+0	107nt, >SEQ375train... *
+>Cluster 352
+0	107nt, >SEQ376train... *
+>Cluster 353
+0	107nt, >SEQ377train... *
+>Cluster 354
+0	107nt, >SEQ378train... *
+>Cluster 355
+0	107nt, >SEQ379train... *
+>Cluster 356
+0	107nt, >SEQ380train... *
+>Cluster 357
+0	107nt, >SEQ381train... *
+>Cluster 358
+0	107nt, >SEQ382train... *
+>Cluster 359
+0	107nt, >SEQ383train... *
+>Cluster 360
+0	107nt, >SEQ384train... *
+>Cluster 361
+0	107nt, >SEQ385train... *
+>Cluster 362
+0	107nt, >SEQ386train... *
+>Cluster 363
+0	107nt, >SEQ387train... *
+>Cluster 364
+0	107nt, >SEQ388train... *
+1	107nt, >SEQ905train... at +/98.13%
+2	107nt, >SEQ915train... at +/96.26%
+3	107nt, >SEQ1261train... at +/96.26%
+4	107nt, >SEQ1400train... at +/98.13%
+5	107nt, >SEQ1573train... at +/96.26%
+>Cluster 365
+0	107nt, >SEQ389train... *
+>Cluster 366
+0	107nt, >SEQ390train... *
+>Cluster 367
+0	107nt, >SEQ391train... *
+>Cluster 368
+0	107nt, >SEQ392train... *
+1	107nt, >SEQ737train... at +/97.20%
+>Cluster 369
+0	107nt, >SEQ393train... *
+1	107nt, >SEQ761train... at +/96.26%
+>Cluster 370
+0	107nt, >SEQ394train... *
+>Cluster 371
+0	107nt, >SEQ396train... *
+>Cluster 372
+0	107nt, >SEQ397train... *
+>Cluster 373
+0	107nt, >SEQ398train... *
+1	107nt, >SEQ1526train... at +/98.13%
+>Cluster 374
+0	107nt, >SEQ399train... *
+>Cluster 375
+0	107nt, >SEQ400train... *
+>Cluster 376
+0	107nt, >SEQ401train... *
+>Cluster 377
+0	107nt, >SEQ402train... *
+>Cluster 378
+0	107nt, >SEQ403train... *
+>Cluster 379
+0	107nt, >SEQ404train... *
+>Cluster 380
+0	107nt, >SEQ405train... *
+>Cluster 381
+0	107nt, >SEQ406train... *
+1	107nt, >SEQ1585train... at +/97.20%
+>Cluster 382
+0	107nt, >SEQ407train... *
+>Cluster 383
+0	107nt, >SEQ408train... *
+>Cluster 384
+0	107nt, >SEQ409train... *
+>Cluster 385
+0	107nt, >SEQ411train... *
+>Cluster 386
+0	107nt, >SEQ412train... *
+>Cluster 387
+0	107nt, >SEQ413train... *
+>Cluster 388
+0	107nt, >SEQ415train... *
+>Cluster 389
+0	107nt, >SEQ416train... *
+>Cluster 390
+0	107nt, >SEQ417train... *
+>Cluster 391
+0	107nt, >SEQ419train... *
+>Cluster 392
+0	107nt, >SEQ420train... *
+1	107nt, >SEQ1030train... at +/98.13%
+>Cluster 393
+0	107nt, >SEQ421train... *
+>Cluster 394
+0	107nt, >SEQ422train... *
+>Cluster 395
+0	107nt, >SEQ423train... *
+>Cluster 396
+0	107nt, >SEQ424train... *
+>Cluster 397
+0	107nt, >SEQ425train... *
+>Cluster 398
+0	107nt, >SEQ426train... *
+>Cluster 399
+0	107nt, >SEQ427train... *
+>Cluster 400
+0	107nt, >SEQ428train... *
+1	107nt, >SEQ736train... at +/96.26%
+>Cluster 401
+0	107nt, >SEQ429train... *
+>Cluster 402
+0	107nt, >SEQ430train... *
+>Cluster 403
+0	107nt, >SEQ431train... *
+>Cluster 404
+0	107nt, >SEQ432train... *
+>Cluster 405
+0	107nt, >SEQ433train... *
+>Cluster 406
+0	107nt, >SEQ434train... *
+>Cluster 407
+0	107nt, >SEQ436train... *
+>Cluster 408
+0	107nt, >SEQ437train... *
+>Cluster 409
+0	107nt, >SEQ438train... *
+>Cluster 410
+0	107nt, >SEQ440train... *
+>Cluster 411
+0	107nt, >SEQ441train... *
+>Cluster 412
+0	107nt, >SEQ443train... *
+>Cluster 413
+0	107nt, >SEQ444train... *
+>Cluster 414
+0	107nt, >SEQ445train... *
+>Cluster 415
+0	107nt, >SEQ447train... *
+>Cluster 416
+0	107nt, >SEQ448train... *
+>Cluster 417
+0	107nt, >SEQ449train... *
+>Cluster 418
+0	107nt, >SEQ450train... *
+>Cluster 419
+0	107nt, >SEQ451train... *
+>Cluster 420
+0	107nt, >SEQ452train... *
+>Cluster 421
+0	107nt, >SEQ453train... *
+>Cluster 422
+0	107nt, >SEQ454train... *
+1	107nt, >SEQ631train... at +/95.33%
+>Cluster 423
+0	107nt, >SEQ455train... *
+1	107nt, >SEQ1495train... at +/96.26%
+>Cluster 424
+0	107nt, >SEQ456train... *
+>Cluster 425
+0	107nt, >SEQ458train... *
+1	107nt, >SEQ553train... at +/95.33%
+2	107nt, >SEQ1248train... at +/96.26%
+>Cluster 426
+0	107nt, >SEQ459train... *
+>Cluster 427
+0	107nt, >SEQ461train... *
+>Cluster 428
+0	107nt, >SEQ462train... *
+>Cluster 429
+0	107nt, >SEQ463train... *
+>Cluster 430
+0	107nt, >SEQ464train... *
+>Cluster 431
+0	107nt, >SEQ465train... *
+>Cluster 432
+0	107nt, >SEQ466train... *
+>Cluster 433
+0	107nt, >SEQ467train... *
+>Cluster 434
+0	107nt, >SEQ468train... *
+>Cluster 435
+0	107nt, >SEQ469train... *
+>Cluster 436
+0	107nt, >SEQ470train... *
+>Cluster 437
+0	107nt, >SEQ471train... *
+>Cluster 438
+0	107nt, >SEQ472train... *
+>Cluster 439
+0	107nt, >SEQ473train... *
+>Cluster 440
+0	107nt, >SEQ474train... *
+>Cluster 441
+0	107nt, >SEQ475train... *
+>Cluster 442
+0	107nt, >SEQ476train... *
+>Cluster 443
+0	107nt, >SEQ477train... *
+1	107nt, >SEQ812train... at +/95.33%
+>Cluster 444
+0	107nt, >SEQ478train... *
+1	107nt, >SEQ1393train... at +/95.33%
+>Cluster 445
+0	107nt, >SEQ479train... *
+>Cluster 446
+0	107nt, >SEQ480train... *
+>Cluster 447
+0	107nt, >SEQ481train... *
+>Cluster 448
+0	107nt, >SEQ482train... *
+>Cluster 449
+0	107nt, >SEQ483train... *
+>Cluster 450
+0	107nt, >SEQ486train... *
+>Cluster 451
+0	107nt, >SEQ487train... *
+>Cluster 452
+0	107nt, >SEQ488train... *
+1	107nt, >SEQ1220train... at +/95.33%
+>Cluster 453
+0	107nt, >SEQ489train... *
+1	107nt, >SEQ574train... at +/96.26%
+2	107nt, >SEQ780train... at +/95.33%
+>Cluster 454
+0	107nt, >SEQ490train... *
+>Cluster 455
+0	107nt, >SEQ491train... *
+>Cluster 456
+0	107nt, >SEQ492train... *
+>Cluster 457
+0	107nt, >SEQ493train... *
+>Cluster 458
+0	107nt, >SEQ494train... *
+>Cluster 459
+0	107nt, >SEQ495train... *
+>Cluster 460
+0	107nt, >SEQ496train... *
+>Cluster 461
+0	107nt, >SEQ497train... *
+>Cluster 462
+0	107nt, >SEQ498train... *
+>Cluster 463
+0	107nt, >SEQ499train... *
+1	107nt, >SEQ754train... at +/96.26%
+2	107nt, >SEQ846train... at +/95.33%
+>Cluster 464
+0	107nt, >SEQ500train... *
+>Cluster 465
+0	107nt, >SEQ501train... *
+1	107nt, >SEQ508train... at +/95.33%
+>Cluster 466
+0	107nt, >SEQ502train... *
+1	107nt, >SEQ648train... at +/95.33%
+2	107nt, >SEQ674train... at +/97.20%
+>Cluster 467
+0	107nt, >SEQ503train... *
+>Cluster 468
+0	107nt, >SEQ506train... *
+>Cluster 469
+0	107nt, >SEQ507train... *
+>Cluster 470
+0	107nt, >SEQ509train... *
+>Cluster 471
+0	107nt, >SEQ510train... *
+>Cluster 472
+0	107nt, >SEQ511train... *
+>Cluster 473
+0	107nt, >SEQ512train... *
+>Cluster 474
+0	107nt, >SEQ513train... *
+>Cluster 475
+0	107nt, >SEQ514train... *
+1	107nt, >SEQ651train... at +/97.20%
+>Cluster 476
+0	107nt, >SEQ515train... *
+>Cluster 477
+0	107nt, >SEQ516train... *
+>Cluster 478
+0	107nt, >SEQ517train... *
+>Cluster 479
+0	107nt, >SEQ518train... *
+>Cluster 480
+0	107nt, >SEQ519train... *
+>Cluster 481
+0	107nt, >SEQ520train... *
+1	107nt, >SEQ1254train... at +/97.20%
+>Cluster 482
+0	107nt, >SEQ521train... *
+>Cluster 483
+0	107nt, >SEQ522train... *
+>Cluster 484
+0	107nt, >SEQ523train... *
+>Cluster 485
+0	107nt, >SEQ524train... *
+1	107nt, >SEQ1164train... at +/96.26%
+>Cluster 486
+0	107nt, >SEQ525train... *
+>Cluster 487
+0	107nt, >SEQ526train... *
+>Cluster 488
+0	107nt, >SEQ527train... *
+>Cluster 489
+0	107nt, >SEQ528train... *
+>Cluster 490
+0	107nt, >SEQ529train... *
+>Cluster 491
+0	107nt, >SEQ530train... *
+>Cluster 492
+0	107nt, >SEQ531train... *
+>Cluster 493
+0	107nt, >SEQ532train... *
+>Cluster 494
+0	107nt, >SEQ533train... *
+>Cluster 495
+0	107nt, >SEQ534train... *
+>Cluster 496
+0	107nt, >SEQ535train... *
+>Cluster 497
+0	107nt, >SEQ536train... *
+1	107nt, >SEQ828train... at +/96.26%
+>Cluster 498
+0	107nt, >SEQ537train... *
+>Cluster 499
+0	107nt, >SEQ539train... *
+>Cluster 500
+0	107nt, >SEQ540train... *
+>Cluster 501
+0	107nt, >SEQ541train... *
+1	107nt, >SEQ612train... at +/98.13%
+2	107nt, >SEQ1210train... at +/97.20%
+>Cluster 502
+0	107nt, >SEQ543train... *
+1	107nt, >SEQ1516train... at +/97.20%
+>Cluster 503
+0	107nt, >SEQ544train... *
+>Cluster 504
+0	107nt, >SEQ545train... *
+1	107nt, >SEQ1435train... at +/98.13%
+>Cluster 505
+0	107nt, >SEQ546train... *
+>Cluster 506
+0	107nt, >SEQ547train... *
+>Cluster 507
+0	107nt, >SEQ548train... *
+>Cluster 508
+0	107nt, >SEQ550train... *
+>Cluster 509
+0	107nt, >SEQ551train... *
+1	107nt, >SEQ911train... at +/98.13%
+2	107nt, >SEQ1177train... at +/96.26%
+3	107nt, >SEQ1579train... at +/96.26%
+>Cluster 510
+0	107nt, >SEQ552train... *
+>Cluster 511
+0	107nt, >SEQ554train... *
+>Cluster 512
+0	107nt, >SEQ555train... *
+>Cluster 513
+0	107nt, >SEQ556train... *
+>Cluster 514
+0	107nt, >SEQ557train... *
+>Cluster 515
+0	107nt, >SEQ558train... *
+>Cluster 516
+0	107nt, >SEQ559train... *
+>Cluster 517
+0	107nt, >SEQ560train... *
+>Cluster 518
+0	107nt, >SEQ561train... *
+>Cluster 519
+0	107nt, >SEQ562train... *
+>Cluster 520
+0	107nt, >SEQ565train... *
+1	107nt, >SEQ653train... at +/95.33%
+2	107nt, >SEQ964train... at +/96.26%
+3	107nt, >SEQ1010train... at +/95.33%
+4	107nt, >SEQ1088train... at +/96.26%
+>Cluster 521
+0	107nt, >SEQ566train... *
+>Cluster 522
+0	107nt, >SEQ568train... *
+>Cluster 523
+0	107nt, >SEQ569train... *
+1	107nt, >SEQ1545train... at +/95.33%
+>Cluster 524
+0	107nt, >SEQ570train... *
+>Cluster 525
+0	107nt, >SEQ571train... *
+>Cluster 526
+0	107nt, >SEQ572train... *
+>Cluster 527
+0	107nt, >SEQ573train... *
+>Cluster 528
+0	107nt, >SEQ575train... *
+>Cluster 529
+0	107nt, >SEQ576train... *
+>Cluster 530
+0	107nt, >SEQ577train... *
+1	107nt, >SEQ1203train... at +/95.33%
+>Cluster 531
+0	107nt, >SEQ578train... *
+>Cluster 532
+0	107nt, >SEQ579train... *
+>Cluster 533
+0	107nt, >SEQ580train... *
+>Cluster 534
+0	107nt, >SEQ581train... *
+>Cluster 535
+0	107nt, >SEQ582train... *
+>Cluster 536
+0	107nt, >SEQ583train... *
+>Cluster 537
+0	107nt, >SEQ585train... *
+1	107nt, >SEQ854train... at +/95.33%
+>Cluster 538
+0	107nt, >SEQ586train... *
+>Cluster 539
+0	107nt, >SEQ588train... *
+1	107nt, >SEQ646train... at +/95.33%
+2	107nt, >SEQ1452train... at +/98.13%
+3	107nt, >SEQ1491train... at +/98.13%
+>Cluster 540
+0	107nt, >SEQ590train... *
+>Cluster 541
+0	107nt, >SEQ591train... *
+>Cluster 542
+0	107nt, >SEQ592train... *
+>Cluster 543
+0	107nt, >SEQ593train... *
+>Cluster 544
+0	107nt, >SEQ594train... *
+1	107nt, >SEQ1521train... at +/95.33%
+>Cluster 545
+0	107nt, >SEQ595train... *
+>Cluster 546
+0	107nt, >SEQ596train... *
+1	107nt, >SEQ1186train... at +/97.20%
+>Cluster 547
+0	107nt, >SEQ597train... *
+>Cluster 548
+0	107nt, >SEQ599train... *
+>Cluster 549
+0	107nt, >SEQ600train... *
+>Cluster 550
+0	107nt, >SEQ601train... *
+>Cluster 551
+0	107nt, >SEQ602train... *
+>Cluster 552
+0	107nt, >SEQ603train... *
+>Cluster 553
+0	107nt, >SEQ604train... *
+>Cluster 554
+0	107nt, >SEQ605train... *
+>Cluster 555
+0	107nt, >SEQ606train... *
+>Cluster 556
+0	107nt, >SEQ607train... *
+>Cluster 557
+0	107nt, >SEQ608train... *
+>Cluster 558
+0	107nt, >SEQ609train... *
+>Cluster 559
+0	107nt, >SEQ610train... *
+>Cluster 560
+0	107nt, >SEQ611train... *
+>Cluster 561
+0	107nt, >SEQ613train... *
+>Cluster 562
+0	107nt, >SEQ614train... *
+1	107nt, >SEQ819train... at +/96.26%
+2	107nt, >SEQ1006train... at +/98.13%
+3	107nt, >SEQ1037train... at +/96.26%
+4	107nt, >SEQ1232train... at +/98.13%
+5	107nt, >SEQ1560train... at +/95.33%
+>Cluster 563
+0	107nt, >SEQ615train... *
+>Cluster 564
+0	107nt, >SEQ616train... *
+>Cluster 565
+0	107nt, >SEQ617train... *
+>Cluster 566
+0	107nt, >SEQ618train... *
+1	107nt, >SEQ772train... at +/96.26%
+>Cluster 567
+0	107nt, >SEQ619train... *
+>Cluster 568
+0	107nt, >SEQ621train... *
+>Cluster 569
+0	107nt, >SEQ622train... *
+>Cluster 570
+0	107nt, >SEQ623train... *
+>Cluster 571
+0	107nt, >SEQ624train... *
+>Cluster 572
+0	107nt, >SEQ626train... *
+1	107nt, >SEQ748train... at +/95.33%
+>Cluster 573
+0	107nt, >SEQ629train... *
+>Cluster 574
+0	107nt, >SEQ630train... *
+>Cluster 575
+0	107nt, >SEQ632train... *
+>Cluster 576
+0	107nt, >SEQ633train... *
+>Cluster 577
+0	107nt, >SEQ634train... *
+1	107nt, >SEQ645train... at +/95.33%
+>Cluster 578
+0	107nt, >SEQ635train... *
+>Cluster 579
+0	107nt, >SEQ636train... *
+>Cluster 580
+0	107nt, >SEQ638train... *
+>Cluster 581
+0	107nt, >SEQ639train... *
+>Cluster 582
+0	107nt, >SEQ641train... *
+>Cluster 583
+0	107nt, >SEQ643train... *
+>Cluster 584
+0	107nt, >SEQ644train... *
+>Cluster 585
+0	107nt, >SEQ647train... *
+>Cluster 586
+0	107nt, >SEQ649train... *
+>Cluster 587
+0	107nt, >SEQ650train... *
+>Cluster 588
+0	107nt, >SEQ652train... *
+>Cluster 589
+0	107nt, >SEQ654train... *
+>Cluster 590
+0	107nt, >SEQ655train... *
+>Cluster 591
+0	107nt, >SEQ656train... *
+>Cluster 592
+0	107nt, >SEQ657train... *
+>Cluster 593
+0	107nt, >SEQ658train... *
+>Cluster 594
+0	107nt, >SEQ659train... *
+>Cluster 595
+0	107nt, >SEQ660train... *
+>Cluster 596
+0	107nt, >SEQ661train... *
+>Cluster 597
+0	107nt, >SEQ662train... *
+>Cluster 598
+0	107nt, >SEQ663train... *
+>Cluster 599
+0	107nt, >SEQ664train... *
+>Cluster 600
+0	107nt, >SEQ665train... *
+>Cluster 601
+0	107nt, >SEQ666train... *
+>Cluster 602
+0	107nt, >SEQ667train... *
+>Cluster 603
+0	107nt, >SEQ668train... *
+>Cluster 604
+0	107nt, >SEQ669train... *
+>Cluster 605
+0	107nt, >SEQ670train... *
+>Cluster 606
+0	107nt, >SEQ671train... *
+>Cluster 607
+0	107nt, >SEQ672train... *
+>Cluster 608
+0	107nt, >SEQ676train... *
+>Cluster 609
+0	107nt, >SEQ677train... *
+>Cluster 610
+0	107nt, >SEQ678train... *
+>Cluster 611
+0	107nt, >SEQ679train... *
+>Cluster 612
+0	107nt, >SEQ680train... *
+>Cluster 613
+0	107nt, >SEQ681train... *
+>Cluster 614
+0	107nt, >SEQ682train... *
+>Cluster 615
+0	107nt, >SEQ683train... *
+>Cluster 616
+0	107nt, >SEQ684train... *
+>Cluster 617
+0	107nt, >SEQ685train... *
+>Cluster 618
+0	107nt, >SEQ686train... *
+>Cluster 619
+0	107nt, >SEQ687train... *
+>Cluster 620
+0	107nt, >SEQ688train... *
+>Cluster 621
+0	107nt, >SEQ689train... *
+>Cluster 622
+0	107nt, >SEQ690train... *
+>Cluster 623
+0	107nt, >SEQ691train... *
+>Cluster 624
+0	107nt, >SEQ692train... *
+>Cluster 625
+0	107nt, >SEQ693train... *
+>Cluster 626
+0	107nt, >SEQ694train... *
+1	107nt, >SEQ893train... at +/98.13%
+2	107nt, >SEQ1243train... at +/95.33%
+>Cluster 627
+0	107nt, >SEQ695train... *
+>Cluster 628
+0	107nt, >SEQ696train... *
+>Cluster 629
+0	107nt, >SEQ698train... *
+>Cluster 630
+0	107nt, >SEQ699train... *
+>Cluster 631
+0	107nt, >SEQ700train... *
+>Cluster 632
+0	107nt, >SEQ701train... *
+>Cluster 633
+0	107nt, >SEQ702train... *
+>Cluster 634
+0	107nt, >SEQ703train... *
+>Cluster 635
+0	107nt, >SEQ704train... *
+>Cluster 636
+0	107nt, >SEQ706train... *
+>Cluster 637
+0	107nt, >SEQ707train... *
+>Cluster 638
+0	107nt, >SEQ708train... *
+>Cluster 639
+0	107nt, >SEQ709train... *
+>Cluster 640
+0	107nt, >SEQ710train... *
+>Cluster 641
+0	107nt, >SEQ711train... *
+>Cluster 642
+0	107nt, >SEQ712train... *
+>Cluster 643
+0	107nt, >SEQ713train... *
+>Cluster 644
+0	107nt, >SEQ714train... *
+>Cluster 645
+0	107nt, >SEQ715train... *
+>Cluster 646
+0	107nt, >SEQ716train... *
+>Cluster 647
+0	107nt, >SEQ717train... *
+>Cluster 648
+0	107nt, >SEQ719train... *
+>Cluster 649
+0	107nt, >SEQ721train... *
+1	107nt, >SEQ1013train... at +/95.33%
+2	107nt, >SEQ1478train... at +/97.20%
+>Cluster 650
+0	107nt, >SEQ722train... *
+1	107nt, >SEQ898train... at +/95.33%
+>Cluster 651
+0	107nt, >SEQ723train... *
+>Cluster 652
+0	107nt, >SEQ724train... *
+>Cluster 653
+0	107nt, >SEQ725train... *
+>Cluster 654
+0	107nt, >SEQ726train... *
+1	107nt, >SEQ996train... at +/95.33%
+>Cluster 655
+0	107nt, >SEQ727train... *
+>Cluster 656
+0	107nt, >SEQ728train... *
+>Cluster 657
+0	107nt, >SEQ730train... *
+>Cluster 658
+0	107nt, >SEQ731train... *
+>Cluster 659
+0	107nt, >SEQ732train... *
+>Cluster 660
+0	107nt, >SEQ733train... *
+>Cluster 661
+0	107nt, >SEQ734train... *
+>Cluster 662
+0	107nt, >SEQ735train... *
+>Cluster 663
+0	107nt, >SEQ738train... *
+1	107nt, >SEQ1273train... at +/98.13%
+>Cluster 664
+0	107nt, >SEQ739train... *
+>Cluster 665
+0	107nt, >SEQ740train... *
+>Cluster 666
+0	107nt, >SEQ741train... *
+>Cluster 667
+0	107nt, >SEQ742train... *
+>Cluster 668
+0	107nt, >SEQ743train... *
+>Cluster 669
+0	107nt, >SEQ744train... *
+>Cluster 670
+0	107nt, >SEQ746train... *
+1	107nt, >SEQ1305train... at +/96.26%
+2	107nt, >SEQ1463train... at +/95.33%
+>Cluster 671
+0	107nt, >SEQ747train... *
+>Cluster 672
+0	107nt, >SEQ749train... *
+>Cluster 673
+0	107nt, >SEQ750train... *
+>Cluster 674
+0	107nt, >SEQ751train... *
+>Cluster 675
+0	107nt, >SEQ752train... *
+>Cluster 676
+0	107nt, >SEQ753train... *
+>Cluster 677
+0	107nt, >SEQ755train... *
+>Cluster 678
+0	107nt, >SEQ756train... *
+>Cluster 679
+0	107nt, >SEQ758train... *
+>Cluster 680
+0	107nt, >SEQ760train... *
+1	107nt, >SEQ1167train... at +/96.26%
+>Cluster 681
+0	107nt, >SEQ762train... *
+>Cluster 682
+0	107nt, >SEQ764train... *
+>Cluster 683
+0	107nt, >SEQ765train... *
+>Cluster 684
+0	107nt, >SEQ766train... *
+>Cluster 685
+0	107nt, >SEQ767train... *
+>Cluster 686
+0	107nt, >SEQ768train... *
+>Cluster 687
+0	107nt, >SEQ769train... *
+>Cluster 688
+0	107nt, >SEQ770train... *
+>Cluster 689
+0	107nt, >SEQ771train... *
+>Cluster 690
+0	107nt, >SEQ773train... *
+>Cluster 691
+0	107nt, >SEQ774train... *
+1	107nt, >SEQ1316train... at +/98.13%
+>Cluster 692
+0	107nt, >SEQ775train... *
+1	107nt, >SEQ1336train... at +/95.33%
+>Cluster 693
+0	107nt, >SEQ776train... *
+>Cluster 694
+0	107nt, >SEQ777train... *
+1	107nt, >SEQ1346train... at +/98.13%
+>Cluster 695
+0	107nt, >SEQ778train... *
+>Cluster 696
+0	107nt, >SEQ781train... *
+>Cluster 697
+0	107nt, >SEQ782train... *
+>Cluster 698
+0	107nt, >SEQ784train... *
+>Cluster 699
+0	107nt, >SEQ785train... *
+>Cluster 700
+0	107nt, >SEQ786train... *
+>Cluster 701
+0	107nt, >SEQ787train... *
+>Cluster 702
+0	107nt, >SEQ788train... *
+1	107nt, >SEQ824train... at +/96.26%
+>Cluster 703
+0	107nt, >SEQ789train... *
+>Cluster 704
+0	107nt, >SEQ790train... *
+>Cluster 705
+0	107nt, >SEQ792train... *
+>Cluster 706
+0	107nt, >SEQ793train... *
+>Cluster 707
+0	107nt, >SEQ794train... *
+>Cluster 708
+0	107nt, >SEQ795train... *
+>Cluster 709
+0	107nt, >SEQ796train... *
+>Cluster 710
+0	107nt, >SEQ797train... *
+>Cluster 711
+0	107nt, >SEQ798train... *
+>Cluster 712
+0	107nt, >SEQ800train... *
+>Cluster 713
+0	107nt, >SEQ801train... *
+>Cluster 714
+0	107nt, >SEQ802train... *
+>Cluster 715
+0	107nt, >SEQ803train... *
+>Cluster 716
+0	107nt, >SEQ804train... *
+>Cluster 717
+0	107nt, >SEQ806train... *
+>Cluster 718
+0	107nt, >SEQ808train... *
+>Cluster 719
+0	107nt, >SEQ809train... *
+>Cluster 720
+0	107nt, >SEQ810train... *
+>Cluster 721
+0	107nt, >SEQ811train... *
+>Cluster 722
+0	107nt, >SEQ813train... *
+>Cluster 723
+0	107nt, >SEQ814train... *
+>Cluster 724
+0	107nt, >SEQ815train... *
+>Cluster 725
+0	107nt, >SEQ816train... *
+>Cluster 726
+0	107nt, >SEQ818train... *
+>Cluster 727
+0	107nt, >SEQ820train... *
+>Cluster 728
+0	107nt, >SEQ821train... *
+>Cluster 729
+0	107nt, >SEQ822train... *
+>Cluster 730
+0	107nt, >SEQ823train... *
+1	107nt, >SEQ1371train... at +/95.33%
+>Cluster 731
+0	107nt, >SEQ825train... *
+>Cluster 732
+0	107nt, >SEQ826train... *
+>Cluster 733
+0	107nt, >SEQ827train... *
+1	107nt, >SEQ957train... at +/96.26%
+>Cluster 734
+0	107nt, >SEQ829train... *
+>Cluster 735
+0	107nt, >SEQ830train... *
+>Cluster 736
+0	107nt, >SEQ831train... *
+1	107nt, >SEQ1416train... at +/95.33%
+2	107nt, >SEQ1564train... at +/95.33%
+>Cluster 737
+0	107nt, >SEQ832train... *
+>Cluster 738
+0	107nt, >SEQ833train... *
+>Cluster 739
+0	107nt, >SEQ834train... *
+>Cluster 740
+0	107nt, >SEQ835train... *
+>Cluster 741
+0	107nt, >SEQ836train... *
+1	107nt, >SEQ1385train... at +/95.33%
+>Cluster 742
+0	107nt, >SEQ837train... *
+>Cluster 743
+0	107nt, >SEQ838train... *
+>Cluster 744
+0	107nt, >SEQ839train... *
+>Cluster 745
+0	107nt, >SEQ840train... *
+>Cluster 746
+0	107nt, >SEQ841train... *
+1	107nt, >SEQ1320train... at +/96.26%
+>Cluster 747
+0	107nt, >SEQ843train... *
+>Cluster 748
+0	107nt, >SEQ844train... *
+>Cluster 749
+0	107nt, >SEQ845train... *
+1	107nt, >SEQ896train... at +/95.33%
+>Cluster 750
+0	107nt, >SEQ848train... *
+>Cluster 751
+0	107nt, >SEQ849train... *
+>Cluster 752
+0	107nt, >SEQ850train... *
+>Cluster 753
+0	107nt, >SEQ851train... *
+>Cluster 754
+0	107nt, >SEQ852train... *
+>Cluster 755
+0	107nt, >SEQ853train... *
+>Cluster 756
+0	107nt, >SEQ855train... *
+>Cluster 757
+0	107nt, >SEQ856train... *
+>Cluster 758
+0	107nt, >SEQ858train... *
+>Cluster 759
+0	107nt, >SEQ859train... *
+>Cluster 760
+0	107nt, >SEQ860train... *
+>Cluster 761
+0	107nt, >SEQ863train... *
+>Cluster 762
+0	107nt, >SEQ864train... *
+>Cluster 763
+0	107nt, >SEQ865train... *
+>Cluster 764
+0	107nt, >SEQ866train... *
+>Cluster 765
+0	107nt, >SEQ867train... *
+>Cluster 766
+0	107nt, >SEQ868train... *
+>Cluster 767
+0	107nt, >SEQ870train... *
+>Cluster 768
+0	107nt, >SEQ871train... *
+>Cluster 769
+0	107nt, >SEQ872train... *
+>Cluster 770
+0	107nt, >SEQ873train... *
+>Cluster 771
+0	107nt, >SEQ874train... *
+>Cluster 772
+0	107nt, >SEQ875train... *
+>Cluster 773
+0	107nt, >SEQ876train... *
+>Cluster 774
+0	107nt, >SEQ879train... *
+>Cluster 775
+0	107nt, >SEQ880train... *
+>Cluster 776
+0	107nt, >SEQ881train... *
+>Cluster 777
+0	107nt, >SEQ883train... *
+>Cluster 778
+0	107nt, >SEQ884train... *
+>Cluster 779
+0	107nt, >SEQ885train... *
+>Cluster 780
+0	107nt, >SEQ886train... *
+>Cluster 781
+0	107nt, >SEQ887train... *
+>Cluster 782
+0	107nt, >SEQ888train... *
+>Cluster 783
+0	107nt, >SEQ889train... *
+>Cluster 784
+0	107nt, >SEQ890train... *
+>Cluster 785
+0	107nt, >SEQ891train... *
+>Cluster 786
+0	107nt, >SEQ892train... *
+>Cluster 787
+0	107nt, >SEQ895train... *
+>Cluster 788
+0	107nt, >SEQ897train... *
+>Cluster 789
+0	107nt, >SEQ899train... *
+1	107nt, >SEQ928train... at +/95.33%
+2	107nt, >SEQ1439train... at +/96.26%
+>Cluster 790
+0	107nt, >SEQ901train... *
+>Cluster 791
+0	107nt, >SEQ902train... *
+>Cluster 792
+0	107nt, >SEQ903train... *
+>Cluster 793
+0	107nt, >SEQ904train... *
+>Cluster 794
+0	107nt, >SEQ906train... *
+1	107nt, >SEQ1380train... at +/98.13%
+2	107nt, >SEQ1492train... at +/96.26%
+>Cluster 795
+0	107nt, >SEQ908train... *
+>Cluster 796
+0	107nt, >SEQ909train... *
+>Cluster 797
+0	107nt, >SEQ910train... *
+>Cluster 798
+0	107nt, >SEQ912train... *
+>Cluster 799
+0	107nt, >SEQ913train... *
+>Cluster 800
+0	107nt, >SEQ914train... *
+>Cluster 801
+0	107nt, >SEQ916train... *
+>Cluster 802
+0	107nt, >SEQ917train... *
+>Cluster 803
+0	107nt, >SEQ918train... *
+>Cluster 804
+0	107nt, >SEQ919train... *
+>Cluster 805
+0	107nt, >SEQ920train... *
+>Cluster 806
+0	107nt, >SEQ921train... *
+>Cluster 807
+0	107nt, >SEQ922train... *
+>Cluster 808
+0	107nt, >SEQ923train... *
+1	107nt, >SEQ1260train... at +/98.13%
+>Cluster 809
+0	107nt, >SEQ924train... *
+>Cluster 810
+0	107nt, >SEQ925train... *
+>Cluster 811
+0	107nt, >SEQ926train... *
+>Cluster 812
+0	107nt, >SEQ927train... *
+>Cluster 813
+0	107nt, >SEQ929train... *
+>Cluster 814
+0	107nt, >SEQ930train... *
+>Cluster 815
+0	107nt, >SEQ931train... *
+>Cluster 816
+0	107nt, >SEQ932train... *
+>Cluster 817
+0	107nt, >SEQ934train... *
+>Cluster 818
+0	107nt, >SEQ935train... *
+>Cluster 819
+0	107nt, >SEQ937train... *
+>Cluster 820
+0	107nt, >SEQ938train... *
+>Cluster 821
+0	107nt, >SEQ939train... *
+>Cluster 822
+0	107nt, >SEQ940train... *
+>Cluster 823
+0	107nt, >SEQ941train... *
+>Cluster 824
+0	107nt, >SEQ942train... *
+>Cluster 825
+0	107nt, >SEQ943train... *
+>Cluster 826
+0	107nt, >SEQ945train... *
+>Cluster 827
+0	107nt, >SEQ946train... *
+>Cluster 828
+0	107nt, >SEQ947train... *
+>Cluster 829
+0	107nt, >SEQ948train... *
+>Cluster 830
+0	107nt, >SEQ950train... *
+>Cluster 831
+0	107nt, >SEQ951train... *
+>Cluster 832
+0	107nt, >SEQ952train... *
+>Cluster 833
+0	107nt, >SEQ953train... *
+>Cluster 834
+0	107nt, >SEQ954train... *
+>Cluster 835
+0	107nt, >SEQ956train... *
+>Cluster 836
+0	107nt, >SEQ958train... *
+>Cluster 837
+0	107nt, >SEQ959train... *
+>Cluster 838
+0	107nt, >SEQ960train... *
+>Cluster 839
+0	107nt, >SEQ961train... *
+>Cluster 840
+0	107nt, >SEQ962train... *
+>Cluster 841
+0	107nt, >SEQ963train... *
+>Cluster 842
+0	107nt, >SEQ965train... *
+>Cluster 843
+0	107nt, >SEQ966train... *
+>Cluster 844
+0	107nt, >SEQ968train... *
+>Cluster 845
+0	107nt, >SEQ969train... *
+>Cluster 846
+0	107nt, >SEQ971train... *
+>Cluster 847
+0	107nt, >SEQ972train... *
+>Cluster 848
+0	107nt, >SEQ973train... *
+>Cluster 849
+0	107nt, >SEQ974train... *
+>Cluster 850
+0	107nt, >SEQ975train... *
+>Cluster 851
+0	107nt, >SEQ976train... *
+>Cluster 852
+0	107nt, >SEQ977train... *
+1	107nt, >SEQ1017train... at +/95.33%
+>Cluster 853
+0	107nt, >SEQ979train... *
+>Cluster 854
+0	107nt, >SEQ980train... *
+>Cluster 855
+0	107nt, >SEQ981train... *
+>Cluster 856
+0	107nt, >SEQ983train... *
+>Cluster 857
+0	107nt, >SEQ984train... *
+>Cluster 858
+0	107nt, >SEQ985train... *
+>Cluster 859
+0	107nt, >SEQ986train... *
+>Cluster 860
+0	107nt, >SEQ987train... *
+>Cluster 861
+0	107nt, >SEQ988train... *
+>Cluster 862
+0	107nt, >SEQ989train... *
+>Cluster 863
+0	107nt, >SEQ990train... *
+>Cluster 864
+0	107nt, >SEQ991train... *
+>Cluster 865
+0	107nt, >SEQ993train... *
+>Cluster 866
+0	107nt, >SEQ994train... *
+>Cluster 867
+0	107nt, >SEQ995train... *
+>Cluster 868
+0	107nt, >SEQ997train... *
+>Cluster 869
+0	107nt, >SEQ1000train... *
+>Cluster 870
+0	107nt, >SEQ1001train... *
+>Cluster 871
+0	107nt, >SEQ1002train... *
+>Cluster 872
+0	107nt, >SEQ1004train... *
+>Cluster 873
+0	107nt, >SEQ1005train... *
+>Cluster 874
+0	107nt, >SEQ1007train... *
+>Cluster 875
+0	107nt, >SEQ1008train... *
+>Cluster 876
+0	107nt, >SEQ1009train... *
+>Cluster 877
+0	107nt, >SEQ1012train... *
+>Cluster 878
+0	107nt, >SEQ1014train... *
+>Cluster 879
+0	107nt, >SEQ1015train... *
+>Cluster 880
+0	107nt, >SEQ1018train... *
+>Cluster 881
+0	107nt, >SEQ1019train... *
+>Cluster 882
+0	107nt, >SEQ1020train... *
+1	107nt, >SEQ1337train... at +/98.13%
+>Cluster 883
+0	107nt, >SEQ1021train... *
+>Cluster 884
+0	107nt, >SEQ1022train... *
+>Cluster 885
+0	107nt, >SEQ1023train... *
+>Cluster 886
+0	107nt, >SEQ1025train... *
+>Cluster 887
+0	107nt, >SEQ1026train... *
+>Cluster 888
+0	107nt, >SEQ1027train... *
+1	107nt, >SEQ1255train... at +/95.33%
+>Cluster 889
+0	107nt, >SEQ1028train... *
+>Cluster 890
+0	107nt, >SEQ1029train... *
+>Cluster 891
+0	107nt, >SEQ1031train... *
+>Cluster 892
+0	107nt, >SEQ1032train... *
+>Cluster 893
+0	107nt, >SEQ1033train... *
+>Cluster 894
+0	107nt, >SEQ1034train... *
+>Cluster 895
+0	107nt, >SEQ1036train... *
+>Cluster 896
+0	107nt, >SEQ1038train... *
+>Cluster 897
+0	107nt, >SEQ1039train... *
+>Cluster 898
+0	107nt, >SEQ1040train... *
+>Cluster 899
+0	107nt, >SEQ1041train... *
+>Cluster 900
+0	107nt, >SEQ1042train... *
+1	107nt, >SEQ1377train... at +/96.26%
+>Cluster 901
+0	107nt, >SEQ1043train... *
+>Cluster 902
+0	107nt, >SEQ1046train... *
+>Cluster 903
+0	107nt, >SEQ1047train... *
+>Cluster 904
+0	107nt, >SEQ1048train... *
+>Cluster 905
+0	107nt, >SEQ1049train... *
+>Cluster 906
+0	107nt, >SEQ1050train... *
+>Cluster 907
+0	107nt, >SEQ1051train... *
+>Cluster 908
+0	107nt, >SEQ1052train... *
+>Cluster 909
+0	107nt, >SEQ1053train... *
+>Cluster 910
+0	107nt, >SEQ1054train... *
+>Cluster 911
+0	107nt, >SEQ1055train... *
+>Cluster 912
+0	107nt, >SEQ1056train... *
+>Cluster 913
+0	107nt, >SEQ1057train... *
+>Cluster 914
+0	107nt, >SEQ1058train... *
+>Cluster 915
+0	107nt, >SEQ1059train... *
+>Cluster 916
+0	107nt, >SEQ1060train... *
+>Cluster 917
+0	107nt, >SEQ1061train... *
+>Cluster 918
+0	107nt, >SEQ1062train... *
+>Cluster 919
+0	107nt, >SEQ1063train... *
+>Cluster 920
+0	107nt, >SEQ1064train... *
+>Cluster 921
+0	107nt, >SEQ1065train... *
+>Cluster 922
+0	107nt, >SEQ1066train... *
+>Cluster 923
+0	107nt, >SEQ1067train... *
+>Cluster 924
+0	107nt, >SEQ1068train... *
+>Cluster 925
+0	107nt, >SEQ1069train... *
+>Cluster 926
+0	107nt, >SEQ1070train... *
+1	107nt, >SEQ1425train... at +/97.20%
+>Cluster 927
+0	107nt, >SEQ1071train... *
+>Cluster 928
+0	107nt, >SEQ1072train... *
+>Cluster 929
+0	107nt, >SEQ1073train... *
+>Cluster 930
+0	107nt, >SEQ1074train... *
+>Cluster 931
+0	107nt, >SEQ1075train... *
+>Cluster 932
+0	107nt, >SEQ1076train... *
+>Cluster 933
+0	107nt, >SEQ1077train... *
+>Cluster 934
+0	107nt, >SEQ1078train... *
+>Cluster 935
+0	107nt, >SEQ1079train... *
+>Cluster 936
+0	107nt, >SEQ1080train... *
+>Cluster 937
+0	107nt, >SEQ1081train... *
+>Cluster 938
+0	107nt, >SEQ1082train... *
+>Cluster 939
+0	107nt, >SEQ1083train... *
+>Cluster 940
+0	107nt, >SEQ1084train... *
+>Cluster 941
+0	107nt, >SEQ1085train... *
+>Cluster 942
+0	107nt, >SEQ1086train... *
+1	107nt, >SEQ1542train... at +/96.26%
+>Cluster 943
+0	107nt, >SEQ1087train... *
+>Cluster 944
+0	107nt, >SEQ1089train... *
+1	107nt, >SEQ1287train... at +/98.13%
+>Cluster 945
+0	107nt, >SEQ1090train... *
+>Cluster 946
+0	107nt, >SEQ1091train... *
+>Cluster 947
+0	107nt, >SEQ1092train... *
+>Cluster 948
+0	107nt, >SEQ1093train... *
+1	107nt, >SEQ1147train... at +/98.13%
+>Cluster 949
+0	107nt, >SEQ1094train... *
+>Cluster 950
+0	107nt, >SEQ1095train... *
+>Cluster 951
+0	107nt, >SEQ1096train... *
+>Cluster 952
+0	107nt, >SEQ1097train... *
+>Cluster 953
+0	107nt, >SEQ1098train... *
+>Cluster 954
+0	107nt, >SEQ1100train... *
+>Cluster 955
+0	107nt, >SEQ1101train... *
+>Cluster 956
+0	107nt, >SEQ1102train... *
+>Cluster 957
+0	107nt, >SEQ1103train... *
+>Cluster 958
+0	107nt, >SEQ1104train... *
+>Cluster 959
+0	107nt, >SEQ1105train... *
+>Cluster 960
+0	107nt, >SEQ1106train... *
+>Cluster 961
+0	107nt, >SEQ1108train... *
+1	107nt, >SEQ1434train... at +/95.33%
+>Cluster 962
+0	107nt, >SEQ1109train... *
+>Cluster 963
+0	107nt, >SEQ1111train... *
+>Cluster 964
+0	107nt, >SEQ1112train... *
+>Cluster 965
+0	107nt, >SEQ1113train... *
+>Cluster 966
+0	107nt, >SEQ1114train... *
+>Cluster 967
+0	107nt, >SEQ1115train... *
+>Cluster 968
+0	107nt, >SEQ1116train... *
+>Cluster 969
+0	107nt, >SEQ1117train... *
+>Cluster 970
+0	107nt, >SEQ1118train... *
+>Cluster 971
+0	107nt, >SEQ1119train... *
+>Cluster 972
+0	107nt, >SEQ1120train... *
+>Cluster 973
+0	107nt, >SEQ1122train... *
+>Cluster 974
+0	107nt, >SEQ1123train... *
+>Cluster 975
+0	107nt, >SEQ1124train... *
+>Cluster 976
+0	107nt, >SEQ1125train... *
+>Cluster 977
+0	107nt, >SEQ1126train... *
+>Cluster 978
+0	107nt, >SEQ1127train... *
+>Cluster 979
+0	107nt, >SEQ1128train... *
+>Cluster 980
+0	107nt, >SEQ1131train... *
+>Cluster 981
+0	107nt, >SEQ1132train... *
+>Cluster 982
+0	107nt, >SEQ1133train... *
+1	107nt, >SEQ1517train... at +/95.33%
+>Cluster 983
+0	107nt, >SEQ1134train... *
+>Cluster 984
+0	107nt, >SEQ1136train... *
+>Cluster 985
+0	107nt, >SEQ1137train... *
+>Cluster 986
+0	107nt, >SEQ1139train... *
+>Cluster 987
+0	107nt, >SEQ1140train... *
+>Cluster 988
+0	107nt, >SEQ1141train... *
+>Cluster 989
+0	107nt, >SEQ1142train... *
+>Cluster 990
+0	107nt, >SEQ1143train... *
+>Cluster 991
+0	107nt, >SEQ1144train... *
+>Cluster 992
+0	107nt, >SEQ1145train... *
+>Cluster 993
+0	107nt, >SEQ1146train... *
+>Cluster 994
+0	107nt, >SEQ1148train... *
+>Cluster 995
+0	107nt, >SEQ1149train... *
+>Cluster 996
+0	107nt, >SEQ1150train... *
+>Cluster 997
+0	107nt, >SEQ1151train... *
+>Cluster 998
+0	107nt, >SEQ1152train... *
+>Cluster 999
+0	107nt, >SEQ1153train... *
+>Cluster 1000
+0	107nt, >SEQ1154train... *
+>Cluster 1001
+0	107nt, >SEQ1155train... *
+>Cluster 1002
+0	107nt, >SEQ1156train... *
+>Cluster 1003
+0	107nt, >SEQ1157train... *
+>Cluster 1004
+0	107nt, >SEQ1158train... *
+>Cluster 1005
+0	107nt, >SEQ1159train... *
+>Cluster 1006
+0	107nt, >SEQ1160train... *
+>Cluster 1007
+0	107nt, >SEQ1161train... *
+>Cluster 1008
+0	107nt, >SEQ1163train... *
+>Cluster 1009
+0	107nt, >SEQ1165train... *
+>Cluster 1010
+0	107nt, >SEQ1166train... *
+>Cluster 1011
+0	107nt, >SEQ1168train... *
+>Cluster 1012
+0	107nt, >SEQ1169train... *
+>Cluster 1013
+0	107nt, >SEQ1170train... *
+>Cluster 1014
+0	107nt, >SEQ1171train... *
+>Cluster 1015
+0	107nt, >SEQ1172train... *
+>Cluster 1016
+0	107nt, >SEQ1173train... *
+>Cluster 1017
+0	107nt, >SEQ1175train... *
+>Cluster 1018
+0	107nt, >SEQ1176train... *
+>Cluster 1019
+0	107nt, >SEQ1178train... *
+>Cluster 1020
+0	107nt, >SEQ1179train... *
+>Cluster 1021
+0	107nt, >SEQ1180train... *
+>Cluster 1022
+0	107nt, >SEQ1181train... *
+>Cluster 1023
+0	107nt, >SEQ1182train... *
+>Cluster 1024
+0	107nt, >SEQ1183train... *
+>Cluster 1025
+0	107nt, >SEQ1184train... *
+>Cluster 1026
+0	107nt, >SEQ1187train... *
+>Cluster 1027
+0	107nt, >SEQ1188train... *
+>Cluster 1028
+0	107nt, >SEQ1189train... *
+>Cluster 1029
+0	107nt, >SEQ1190train... *
+>Cluster 1030
+0	107nt, >SEQ1191train... *
+>Cluster 1031
+0	107nt, >SEQ1192train... *
+>Cluster 1032
+0	107nt, >SEQ1193train... *
+>Cluster 1033
+0	107nt, >SEQ1194train... *
+>Cluster 1034
+0	107nt, >SEQ1195train... *
+>Cluster 1035
+0	107nt, >SEQ1196train... *
+>Cluster 1036
+0	107nt, >SEQ1197train... *
+>Cluster 1037
+0	107nt, >SEQ1199train... *
+1	107nt, >SEQ1550train... at +/96.26%
+>Cluster 1038
+0	107nt, >SEQ1200train... *
+>Cluster 1039
+0	107nt, >SEQ1201train... *
+>Cluster 1040
+0	107nt, >SEQ1202train... *
+>Cluster 1041
+0	107nt, >SEQ1204train... *
+>Cluster 1042
+0	107nt, >SEQ1207train... *
+>Cluster 1043
+0	107nt, >SEQ1209train... *
+>Cluster 1044
+0	107nt, >SEQ1211train... *
+>Cluster 1045
+0	107nt, >SEQ1213train... *
+>Cluster 1046
+0	107nt, >SEQ1214train... *
+>Cluster 1047
+0	107nt, >SEQ1215train... *
+>Cluster 1048
+0	107nt, >SEQ1216train... *
+>Cluster 1049
+0	107nt, >SEQ1218train... *
+>Cluster 1050
+0	107nt, >SEQ1219train... *
+>Cluster 1051
+0	107nt, >SEQ1221train... *
+>Cluster 1052
+0	107nt, >SEQ1222train... *
+>Cluster 1053
+0	107nt, >SEQ1223train... *
+>Cluster 1054
+0	107nt, >SEQ1224train... *
+>Cluster 1055
+0	107nt, >SEQ1225train... *
+>Cluster 1056
+0	107nt, >SEQ1226train... *
+>Cluster 1057
+0	107nt, >SEQ1227train... *
+>Cluster 1058
+0	107nt, >SEQ1228train... *
+>Cluster 1059
+0	107nt, >SEQ1229train... *
+>Cluster 1060
+0	107nt, >SEQ1231train... *
+>Cluster 1061
+0	107nt, >SEQ1233train... *
+>Cluster 1062
+0	107nt, >SEQ1234train... *
+>Cluster 1063
+0	107nt, >SEQ1235train... *
+>Cluster 1064
+0	107nt, >SEQ1237train... *
+>Cluster 1065
+0	107nt, >SEQ1239train... *
+>Cluster 1066
+0	107nt, >SEQ1241train... *
+>Cluster 1067
+0	107nt, >SEQ1242train... *
+>Cluster 1068
+0	107nt, >SEQ1245train... *
+>Cluster 1069
+0	107nt, >SEQ1249train... *
+>Cluster 1070
+0	107nt, >SEQ1250train... *
+>Cluster 1071
+0	107nt, >SEQ1251train... *
+>Cluster 1072
+0	107nt, >SEQ1253train... *
+>Cluster 1073
+0	107nt, >SEQ1257train... *
+>Cluster 1074
+0	107nt, >SEQ1259train... *
+>Cluster 1075
+0	107nt, >SEQ1262train... *
+1	107nt, >SEQ1285train... at +/99.07%
+2	107nt, >SEQ1333train... at +/98.13%
+>Cluster 1076
+0	107nt, >SEQ1263train... *
+>Cluster 1077
+0	107nt, >SEQ1264train... *
+>Cluster 1078
+0	107nt, >SEQ1265train... *
+>Cluster 1079
+0	107nt, >SEQ1266train... *
+1	107nt, >SEQ1451train... at +/96.26%
+>Cluster 1080
+0	107nt, >SEQ1267train... *
+>Cluster 1081
+0	107nt, >SEQ1272train... *
+>Cluster 1082
+0	107nt, >SEQ1274train... *
+>Cluster 1083
+0	107nt, >SEQ1275train... *
+>Cluster 1084
+0	107nt, >SEQ1276train... *
+>Cluster 1085
+0	107nt, >SEQ1277train... *
+>Cluster 1086
+0	107nt, >SEQ1278train... *
+>Cluster 1087
+0	107nt, >SEQ1280train... *
+>Cluster 1088
+0	107nt, >SEQ1282train... *
+>Cluster 1089
+0	107nt, >SEQ1284train... *
+>Cluster 1090
+0	107nt, >SEQ1286train... *
+>Cluster 1091
+0	107nt, >SEQ1288train... *
+>Cluster 1092
+0	107nt, >SEQ1289train... *
+>Cluster 1093
+0	107nt, >SEQ1290train... *
+>Cluster 1094
+0	107nt, >SEQ1291train... *
+>Cluster 1095
+0	107nt, >SEQ1292train... *
+>Cluster 1096
+0	107nt, >SEQ1293train... *
+>Cluster 1097
+0	107nt, >SEQ1294train... *
+>Cluster 1098
+0	107nt, >SEQ1295train... *
+>Cluster 1099
+0	107nt, >SEQ1296train... *
+>Cluster 1100
+0	107nt, >SEQ1297train... *
+>Cluster 1101
+0	107nt, >SEQ1298train... *
+>Cluster 1102
+0	107nt, >SEQ1301train... *
+>Cluster 1103
+0	107nt, >SEQ1303train... *
+>Cluster 1104
+0	107nt, >SEQ1306train... *
+>Cluster 1105
+0	107nt, >SEQ1307train... *
+>Cluster 1106
+0	107nt, >SEQ1308train... *
+>Cluster 1107
+0	107nt, >SEQ1309train... *
+>Cluster 1108
+0	107nt, >SEQ1310train... *
+>Cluster 1109
+0	107nt, >SEQ1311train... *
+>Cluster 1110
+0	107nt, >SEQ1312train... *
+>Cluster 1111
+0	107nt, >SEQ1313train... *
+>Cluster 1112
+0	107nt, >SEQ1314train... *
+>Cluster 1113
+0	107nt, >SEQ1315train... *
+>Cluster 1114
+0	107nt, >SEQ1317train... *
+>Cluster 1115
+0	107nt, >SEQ1318train... *
+>Cluster 1116
+0	107nt, >SEQ1319train... *
+>Cluster 1117
+0	107nt, >SEQ1321train... *
+>Cluster 1118
+0	107nt, >SEQ1322train... *
+>Cluster 1119
+0	107nt, >SEQ1323train... *
+>Cluster 1120
+0	107nt, >SEQ1324train... *
+>Cluster 1121
+0	107nt, >SEQ1325train... *
+>Cluster 1122
+0	107nt, >SEQ1326train... *
+>Cluster 1123
+0	107nt, >SEQ1327train... *
+>Cluster 1124
+0	107nt, >SEQ1328train... *
+>Cluster 1125
+0	107nt, >SEQ1329train... *
+>Cluster 1126
+0	107nt, >SEQ1330train... *
+>Cluster 1127
+0	107nt, >SEQ1331train... *
+>Cluster 1128
+0	107nt, >SEQ1334train... *
+>Cluster 1129
+0	107nt, >SEQ1335train... *
+>Cluster 1130
+0	107nt, >SEQ1338train... *
+>Cluster 1131
+0	107nt, >SEQ1339train... *
+>Cluster 1132
+0	107nt, >SEQ1341train... *
+>Cluster 1133
+0	107nt, >SEQ1343train... *
+>Cluster 1134
+0	107nt, >SEQ1344train... *
+>Cluster 1135
+0	107nt, >SEQ1345train... *
+>Cluster 1136
+0	107nt, >SEQ1347train... *
+>Cluster 1137
+0	107nt, >SEQ1348train... *
+>Cluster 1138
+0	107nt, >SEQ1350train... *
+>Cluster 1139
+0	107nt, >SEQ1351train... *
+>Cluster 1140
+0	107nt, >SEQ1352train... *
+>Cluster 1141
+0	107nt, >SEQ1353train... *
+>Cluster 1142
+0	107nt, >SEQ1354train... *
+>Cluster 1143
+0	107nt, >SEQ1355train... *
+>Cluster 1144
+0	107nt, >SEQ1357train... *
+>Cluster 1145
+0	107nt, >SEQ1358train... *
+>Cluster 1146
+0	107nt, >SEQ1359train... *
+>Cluster 1147
+0	107nt, >SEQ1360train... *
+>Cluster 1148
+0	107nt, >SEQ1361train... *
+>Cluster 1149
+0	107nt, >SEQ1362train... *
+>Cluster 1150
+0	107nt, >SEQ1363train... *
+1	107nt, >SEQ1464train... at +/97.20%
+>Cluster 1151
+0	107nt, >SEQ1366train... *
+>Cluster 1152
+0	107nt, >SEQ1367train... *
+>Cluster 1153
+0	107nt, >SEQ1368train... *
+>Cluster 1154
+0	107nt, >SEQ1369train... *
+>Cluster 1155
+0	107nt, >SEQ1372train... *
+>Cluster 1156
+0	107nt, >SEQ1373train... *
+>Cluster 1157
+0	107nt, >SEQ1374train... *
+>Cluster 1158
+0	107nt, >SEQ1375train... *
+>Cluster 1159
+0	107nt, >SEQ1376train... *
+>Cluster 1160
+0	107nt, >SEQ1378train... *
+>Cluster 1161
+0	107nt, >SEQ1379train... *
+>Cluster 1162
+0	107nt, >SEQ1381train... *
+>Cluster 1163
+0	107nt, >SEQ1382train... *
+>Cluster 1164
+0	107nt, >SEQ1383train... *
+>Cluster 1165
+0	107nt, >SEQ1384train... *
+>Cluster 1166
+0	107nt, >SEQ1386train... *
+>Cluster 1167
+0	107nt, >SEQ1387train... *
+>Cluster 1168
+0	107nt, >SEQ1388train... *
+>Cluster 1169
+0	107nt, >SEQ1389train... *
+>Cluster 1170
+0	107nt, >SEQ1390train... *
+>Cluster 1171
+0	107nt, >SEQ1391train... *
+>Cluster 1172
+0	107nt, >SEQ1392train... *
+>Cluster 1173
+0	107nt, >SEQ1396train... *
+>Cluster 1174
+0	107nt, >SEQ1397train... *
+>Cluster 1175
+0	107nt, >SEQ1398train... *
+>Cluster 1176
+0	107nt, >SEQ1399train... *
+>Cluster 1177
+0	107nt, >SEQ1401train... *
+>Cluster 1178
+0	107nt, >SEQ1402train... *
+>Cluster 1179
+0	107nt, >SEQ1403train... *
+>Cluster 1180
+0	107nt, >SEQ1404train... *
+>Cluster 1181
+0	107nt, >SEQ1405train... *
+>Cluster 1182
+0	107nt, >SEQ1406train... *
+>Cluster 1183
+0	107nt, >SEQ1407train... *
+>Cluster 1184
+0	107nt, >SEQ1408train... *
+>Cluster 1185
+0	107nt, >SEQ1410train... *
+>Cluster 1186
+0	107nt, >SEQ1411train... *
+>Cluster 1187
+0	107nt, >SEQ1412train... *
+>Cluster 1188
+0	107nt, >SEQ1413train... *
+>Cluster 1189
+0	107nt, >SEQ1414train... *
+>Cluster 1190
+0	107nt, >SEQ1415train... *
+>Cluster 1191
+0	107nt, >SEQ1417train... *
+>Cluster 1192
+0	107nt, >SEQ1418train... *
+1	107nt, >SEQ1449train... at +/95.33%
+>Cluster 1193
+0	107nt, >SEQ1419train... *
+>Cluster 1194
+0	107nt, >SEQ1420train... *
+>Cluster 1195
+0	107nt, >SEQ1421train... *
+>Cluster 1196
+0	107nt, >SEQ1422train... *
+>Cluster 1197
+0	107nt, >SEQ1423train... *
+>Cluster 1198
+0	107nt, >SEQ1424train... *
+>Cluster 1199
+0	107nt, >SEQ1426train... *
+>Cluster 1200
+0	107nt, >SEQ1427train... *
+1	107nt, >SEQ1546train... at +/95.33%
+>Cluster 1201
+0	107nt, >SEQ1428train... *
+>Cluster 1202
+0	107nt, >SEQ1429train... *
+>Cluster 1203
+0	107nt, >SEQ1430train... *
+>Cluster 1204
+0	107nt, >SEQ1431train... *
+>Cluster 1205
+0	107nt, >SEQ1432train... *
+>Cluster 1206
+0	107nt, >SEQ1433train... *
+>Cluster 1207
+0	107nt, >SEQ1436train... *
+>Cluster 1208
+0	107nt, >SEQ1437train... *
+>Cluster 1209
+0	107nt, >SEQ1438train... *
+>Cluster 1210
+0	107nt, >SEQ1440train... *
+>Cluster 1211
+0	107nt, >SEQ1441train... *
+>Cluster 1212
+0	107nt, >SEQ1443train... *
+>Cluster 1213
+0	107nt, >SEQ1444train... *
+>Cluster 1214
+0	107nt, >SEQ1445train... *
+>Cluster 1215
+0	107nt, >SEQ1446train... *
+>Cluster 1216
+0	107nt, >SEQ1447train... *
+>Cluster 1217
+0	107nt, >SEQ1448train... *
+>Cluster 1218
+0	107nt, >SEQ1450train... *
+>Cluster 1219
+0	107nt, >SEQ1454train... *
+>Cluster 1220
+0	107nt, >SEQ1455train... *
+>Cluster 1221
+0	107nt, >SEQ1456train... *
+>Cluster 1222
+0	107nt, >SEQ1457train... *
+>Cluster 1223
+0	107nt, >SEQ1458train... *
+>Cluster 1224
+0	107nt, >SEQ1459train... *
+>Cluster 1225
+0	107nt, >SEQ1460train... *
+>Cluster 1226
+0	107nt, >SEQ1461train... *
+>Cluster 1227
+0	107nt, >SEQ1462train... *
+>Cluster 1228
+0	107nt, >SEQ1465train... *
+>Cluster 1229
+0	107nt, >SEQ1466train... *
+>Cluster 1230
+0	107nt, >SEQ1467train... *
+>Cluster 1231
+0	107nt, >SEQ1468train... *
+>Cluster 1232
+0	107nt, >SEQ1469train... *
+>Cluster 1233
+0	107nt, >SEQ1470train... *
+>Cluster 1234
+0	107nt, >SEQ1471train... *
+>Cluster 1235
+0	107nt, >SEQ1472train... *
+>Cluster 1236
+0	107nt, >SEQ1473train... *
+>Cluster 1237
+0	107nt, >SEQ1474train... *
+>Cluster 1238
+0	107nt, >SEQ1475train... *
+>Cluster 1239
+0	107nt, >SEQ1476train... *
+>Cluster 1240
+0	107nt, >SEQ1477train... *
+>Cluster 1241
+0	107nt, >SEQ1480train... *
+>Cluster 1242
+0	107nt, >SEQ1481train... *
+>Cluster 1243
+0	107nt, >SEQ1482train... *
+>Cluster 1244
+0	107nt, >SEQ1484train... *
+>Cluster 1245
+0	107nt, >SEQ1485train... *
+>Cluster 1246
+0	107nt, >SEQ1486train... *
+>Cluster 1247
+0	107nt, >SEQ1487train... *
+>Cluster 1248
+0	107nt, >SEQ1489train... *
+>Cluster 1249
+0	107nt, >SEQ1490train... *
+>Cluster 1250
+0	107nt, >SEQ1496train... *
+>Cluster 1251
+0	107nt, >SEQ1497train... *
+>Cluster 1252
+0	107nt, >SEQ1498train... *
+>Cluster 1253
+0	107nt, >SEQ1499train... *
+>Cluster 1254
+0	107nt, >SEQ1500train... *
+>Cluster 1255
+0	107nt, >SEQ1504train... *
+>Cluster 1256
+0	107nt, >SEQ1505train... *
+>Cluster 1257
+0	107nt, >SEQ1506train... *
+>Cluster 1258
+0	107nt, >SEQ1507train... *
+>Cluster 1259
+0	107nt, >SEQ1509train... *
+>Cluster 1260
+0	107nt, >SEQ1510train... *
+>Cluster 1261
+0	107nt, >SEQ1511train... *
+>Cluster 1262
+0	107nt, >SEQ1512train... *
+>Cluster 1263
+0	107nt, >SEQ1513train... *
+>Cluster 1264
+0	107nt, >SEQ1514train... *
+>Cluster 1265
+0	107nt, >SEQ1515train... *
+>Cluster 1266
+0	107nt, >SEQ1519train... *
+>Cluster 1267
+0	107nt, >SEQ1520train... *
+>Cluster 1268
+0	107nt, >SEQ1522train... *
+>Cluster 1269
+0	107nt, >SEQ1523train... *
+>Cluster 1270
+0	107nt, >SEQ1524train... *
+>Cluster 1271
+0	107nt, >SEQ1525train... *
+>Cluster 1272
+0	107nt, >SEQ1527train... *
+>Cluster 1273
+0	107nt, >SEQ1528train... *
+>Cluster 1274
+0	107nt, >SEQ1529train... *
+>Cluster 1275
+0	107nt, >SEQ1530train... *
+>Cluster 1276
+0	107nt, >SEQ1531train... *
+>Cluster 1277
+0	107nt, >SEQ1532train... *
+>Cluster 1278
+0	107nt, >SEQ1533train... *
+>Cluster 1279
+0	107nt, >SEQ1534train... *
+>Cluster 1280
+0	107nt, >SEQ1535train... *
+>Cluster 1281
+0	107nt, >SEQ1536train... *
+>Cluster 1282
+0	107nt, >SEQ1537train... *
+>Cluster 1283
+0	107nt, >SEQ1538train... *
+>Cluster 1284
+0	107nt, >SEQ1539train... *
+>Cluster 1285
+0	107nt, >SEQ1540train... *
+>Cluster 1286
+0	107nt, >SEQ1541train... *
+>Cluster 1287
+0	107nt, >SEQ1543train... *
+>Cluster 1288
+0	107nt, >SEQ1544train... *
+>Cluster 1289
+0	107nt, >SEQ1547train... *
+>Cluster 1290
+0	107nt, >SEQ1548train... *
+>Cluster 1291
+0	107nt, >SEQ1549train... *
+>Cluster 1292
+0	107nt, >SEQ1551train... *
+>Cluster 1293
+0	107nt, >SEQ1552train... *
+>Cluster 1294
+0	107nt, >SEQ1553train... *
+>Cluster 1295
+0	107nt, >SEQ1554train... *
+>Cluster 1296
+0	107nt, >SEQ1555train... *
+>Cluster 1297
+0	107nt, >SEQ1556train... *
+>Cluster 1298
+0	107nt, >SEQ1557train... *
+>Cluster 1299
+0	107nt, >SEQ1559train... *
+>Cluster 1300
+0	107nt, >SEQ1561train... *
+>Cluster 1301
+0	107nt, >SEQ1562train... *
+>Cluster 1302
+0	107nt, >SEQ1563train... *
+>Cluster 1303
+0	107nt, >SEQ1565train... *
+>Cluster 1304
+0	107nt, >SEQ1567train... *
+>Cluster 1305
+0	107nt, >SEQ1568train... *
+>Cluster 1306
+0	107nt, >SEQ1569train... *
+>Cluster 1307
+0	107nt, >SEQ1570train... *
+>Cluster 1308
+0	107nt, >SEQ1572train... *
+>Cluster 1309
+0	107nt, >SEQ1574train... *
+>Cluster 1310
+0	107nt, >SEQ1575train... *
+>Cluster 1311
+0	107nt, >SEQ1576train... *
+>Cluster 1312
+0	107nt, >SEQ1577train... *
+>Cluster 1313
+0	107nt, >SEQ1578train... *
+>Cluster 1314
+0	107nt, >SEQ1580train... *
+>Cluster 1315
+0	107nt, >SEQ1581train... *
+>Cluster 1316
+0	107nt, >SEQ1582train... *
+>Cluster 1317
+0	107nt, >SEQ1583train... *
+>Cluster 1318
+0	107nt, >SEQ1584train... *
+>Cluster 1319
+0	107nt, >SEQ1587train... *
